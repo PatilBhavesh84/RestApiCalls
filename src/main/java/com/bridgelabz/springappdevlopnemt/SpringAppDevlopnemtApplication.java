@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringAppDevlopnemtApplication {
 
     public static void main(String[] args) {
+        System.out.println("Welcome to messaging application demonstrates REST API calls ");
         SpringApplication.run(SpringAppDevlopnemtApplication.class, args);
     }
 
